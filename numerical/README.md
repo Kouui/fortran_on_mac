@@ -13,3 +13,5 @@
 - [fortran90 and python](http://www.fortran90.org)
 
 - [youtube vedio of fortran](https://www.youtube.com/channel/UCUJFj-PXuWLRfFFHA44ZGYw/playlists)
+
+- [numerical mathematics and computing](http://www.ma.utexas.edu/CNA/NMC5/nmc5-fortran90.html)
