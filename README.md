@@ -11,8 +11,10 @@ to run:
 	
 	
 simple wrap using f2py
+
 https://docs.scipy.org/doc/numpy/user/c-info.python-as-glue.html
-example was tested in ~/myfortran/ with add.f
+
+example was tested in local directory ~/myfortran/ with add.f
 	
 step 1.
 	
