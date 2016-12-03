@@ -2,9 +2,11 @@
 fortran for mac and python.
 
 to compile:
+
 	$ gfortran -o hello.exe helloprogram.f95
 	
-to run: 
+to run:
+
 	$ ./hello.exe
 	
 	
