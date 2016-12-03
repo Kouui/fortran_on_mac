@@ -63,3 +63,5 @@ Once it's installed, you can load it with *%load_ext fortranmagic*. Then put you
 			real, intent(out) :: z
 			z = sin(x+y)
 		end subroutine f1
+
+[documentation](http://nbviewer.jupyter.org/github/mgaitan/fortran_magic/blob/master/documentation.ipynb)
