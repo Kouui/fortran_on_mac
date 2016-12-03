@@ -19,7 +19,7 @@ example was tested in local directory ~/myfortran/ with add.f
 ### step 1.
 	
 	$ f2py -h add.pyf -m add add.f
-this will leaves the add.pyf in the current directory.
+this will leave the add.pyf in the current directory.
 	
 ### step2.
 modify declaration of variables by placing intent directives and checking code.
