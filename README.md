@@ -43,3 +43,8 @@ so we can freely use
 	>>> c.shape
 and so on!
 done!
+
+## fortran_magic in jupyter notebook
+
+https://github.com/mgaitan/fortran_magic
+
