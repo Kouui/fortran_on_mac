@@ -48,3 +48,18 @@ done!
 
 https://github.com/mgaitan/fortran_magic
 
+Compile and import symbols from a cell with fortran code, using f2py.
+
+install or upgrade via pip
+
+	pip install -U fortran-magic
+	
+Once it's installed, you can load it with *%load_ext fortranmagic*. Then put your Fortran code in a cell started with the cell magic *%%fortran*. 
+
+	In[1]: %load_ext fortranmagic
+	In[2]: %%fortran
+		subroutine f1(x,y,z)
+			real, intent(in)  :: x,y
+			real, intent(out) :: z
+			z = sin(x+y)
+		end subroutine f1
